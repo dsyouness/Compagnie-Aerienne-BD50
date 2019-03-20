@@ -2,7 +2,7 @@
 
 Conception de bases de données (Oracle SQL Developer, APEX, PL/SQL Web Toolkit ...)
 
-#INSTRUCTIONS A SUIVRE
+# INSTRUCTIONS A SUIVRE
 
 
 1- PLACER LE CONTENU DU DOSSIER script DANS LE REPERTOIRE SUIVANT "e:\script\" DE LA MV
