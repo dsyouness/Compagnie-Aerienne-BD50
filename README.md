@@ -1,8 +1,20 @@
+![alt text](https://img.icons8.com/color/48/000000/oracle-logo.png) ![alt text](https://img.icons8.com/color/48/000000/bootstrap.png)
+
 # Compagnie Aerienne Belfortaine BD50
+
+![alt text](https://github.com/dsyouness/Compagnie-Aerienne-BD50/blob/master/image/logo.png)
 
 Conception de bases de données (Oracle SQL Developer, APEX, PL/SQL Web Toolkit ...)
 
-# INSTRUCTIONS A SUIVRE
+# Captures d'écran
+
+![alt text](https://github.com/dsyouness/Compagnie-Aerienne-BD50/blob/master/image/home.png)
+![alt text](https://github.com/dsyouness/Compagnie-Aerienne-BD50/blob/master/image/search.png)
+![alt text](https://github.com/dsyouness/Compagnie-Aerienne-BD50/blob/master/image/email.png)
+![alt text](https://github.com/dsyouness/Compagnie-Aerienne-BD50/blob/master/image/apex.png)
+
+
+# Instructions à suivre
 
 
 1- PLACER LE CONTENU DU DOSSIER script DANS LE REPERTOIRE SUIVANT "e:\script\" DE LA MV
